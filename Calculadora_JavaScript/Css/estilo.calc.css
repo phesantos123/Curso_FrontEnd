@@ -1,0 +1,14 @@
+.fundo {
+    background-color: black;
+    position: absolute;
+    top:50px;
+    left:500px;
+    height: 350px;
+    width: 290px;
+    border-radius: 20px;
+}
+.teste {
+    padding-left:40px;
+    margin-top: 20px;
+}
+
